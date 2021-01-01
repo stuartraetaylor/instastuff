@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 
-import argparse
 import logging
 import requests
 import json
-import re
 import time
 import math
 
